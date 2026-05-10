@@ -1,0 +1,21 @@
+{
+  "name": "KaizenSpark Tech - Internship Platform",
+  "short_name": "KaizenSpark",
+  "description": "Enterprise-grade internship management platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020817",
+  "theme_color": "#2563EB",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity", "business"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
